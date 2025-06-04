@@ -402,17 +402,17 @@
       <div class="founder">
         <img src="https://i.pravatar.cc/120?img=12" alt="איליה גונצ׳ר" />
         <h3>איליה גונצ׳ר</h3>
-        <p>מייסד ומנהל פרויקט, מפקד ביחידת אגוז, בעל ניסיון לוגיסטי ועסקי</p>
+        <p>מייסד </p>
       </div>
       <div class="founder">
         <img src="https://i.pravatar.cc/120?img=20" alt="אביחי דהן" />
         <h3>אביחי דהן</h3>
-        <p>מפתח ראשי, מומחה טכנולוגיות מתקדמות ואבטחת מידע</p>
+        <p>מייסד</p>
       </div>
       <div class="founder">
         <img src="https://i.pravatar.cc/120?img=32" alt="טל זית" />
         <h3>טל זית</h3>
-        <p>אחראי חווית משתמש, מעצב גרפי ויועץ תקשורת</p>
+        <p>מייסד</p>
       </div>
     </div>
   </section>
